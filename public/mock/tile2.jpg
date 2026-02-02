@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <pattern id="woodPattern" patternUnits="userSpaceOnUse" width="100" height="20">
+      <rect width="100" height="20" fill="#8b6914"/>
+      <line x1="0" y1="5" x2="100" y2="5" stroke="#7a5c10" stroke-width="1" opacity="0.5"/>
+      <line x1="0" y1="15" x2="100" y2="15" stroke="#9a7520" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="300" height="300" fill="url(#woodPattern)"/>
+  <rect x="5" y="5" width="290" height="290" fill="none" stroke="#6b4e0a" stroke-width="2" rx="4"/>
+  <text x="150" y="160" text-anchor="middle" fill="#4a3508" font-family="Arial" font-size="14" font-weight="bold">Oak Wood</text>
+</svg>

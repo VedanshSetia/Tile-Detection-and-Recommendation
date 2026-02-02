@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <pattern id="slatePattern" patternUnits="userSpaceOnUse" width="75" height="75">
+      <rect width="75" height="75" fill="#4a5568"/>
+      <rect x="2" y="2" width="71" height="71" fill="#5a6578"/>
+      <line x1="5" y1="37" x2="70" y2="37" stroke="#3d4654" stroke-width="1" opacity="0.4"/>
+      <line x1="37" y1="5" x2="37" y2="70" stroke="#3d4654" stroke-width="1" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="300" height="300" fill="url(#slatePattern)"/>
+  <rect x="3" y="3" width="294" height="294" fill="none" stroke="#2d3748" stroke-width="3" rx="6"/>
+  <text x="150" y="155" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Slate Gray</text>
+  <text x="150" y="175" text-anchor="middle" fill="#cbd5e0" font-family="Arial, sans-serif" font-size="11">Modern Stone</text>
+</svg>

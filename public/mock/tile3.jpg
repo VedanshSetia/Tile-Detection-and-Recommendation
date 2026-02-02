@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <pattern id="slatePattern" patternUnits="userSpaceOnUse" width="50" height="50">
+      <rect width="50" height="50" fill="#4a5568"/>
+      <rect x="2" y="2" width="46" height="46" fill="#5a6578"/>
+      <line x1="5" y1="25" x2="45" y2="25" stroke="#3d4654" stroke-width="1" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="300" height="300" fill="url(#slatePattern)"/>
+  <rect x="5" y="5" width="290" height="290" fill="none" stroke="#2d3748" stroke-width="2" rx="4"/>
+  <text x="150" y="160" text-anchor="middle" fill="#e2e8f0" font-family="Arial" font-size="14" font-weight="bold">Slate Gray</text>
+</svg>

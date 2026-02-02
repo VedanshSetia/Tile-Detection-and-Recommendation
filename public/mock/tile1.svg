@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <pattern id="marblePattern1" patternUnits="userSpaceOnUse" width="60" height="60">
+      <rect width="60" height="60" fill="#e8e0d5"/>
+      <path d="M0 30 Q15 20 30 30 T60 30" stroke="#d4c8b8" stroke-width="2" fill="none" opacity="0.6"/>
+      <path d="M0 45 Q15 55 30 45 T60 45" stroke="#c9baa8" stroke-width="1.5" fill="none" opacity="0.4"/>
+      <path d="M10 10 Q25 5 40 15" stroke="#ddd0c0" stroke-width="1" fill="none" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="300" height="300" fill="url(#marblePattern1)"/>
+  <rect x="3" y="3" width="294" height="294" fill="none" stroke="#b8a898" stroke-width="3" rx="6"/>
+  <text x="150" y="155" text-anchor="middle" fill="#8b7355" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Marble Beige</text>
+  <text x="150" y="175" text-anchor="middle" fill="#a08060" font-family="Arial, sans-serif" font-size="11">Premium Floor Tile</text>
+</svg>
